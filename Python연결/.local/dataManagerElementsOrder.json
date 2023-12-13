@@ -1,0 +1,72 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "arrGetResult&Sequence_2",
+        "pyResult&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "좌표확인.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strYVelue&Sequence_7",
+        "intYIndex&Sequence_7",
+        "strXVelue&Sequence_7",
+        "intXIndex&Sequence_7",
+        "arr좌표&Sequence_7",
+        "strString&Sequence_7",
+        "arrGetResult&Sequence_7",
+        "pyResult&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "가상환경으로 경로변경.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "pyResult&Sequence_2",
+        "arrGetResult&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "가상환경경로사용한_좌표확인.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "intHeighVelue&Sequence_7",
+        "intWidthVelue&Sequence_7",
+        "intYVelue&Sequence_7",
+        "intXVelue&Sequence_7",
+        "intHeightIndex&Sequence_7",
+        "intWidthIndex&Sequence_7",
+        "pyResult&Sequence_7",
+        "arrGetResult&Sequence_7",
+        "strString&Sequence_7",
+        "arr좌표&Sequence_7",
+        "intXIndex&Sequence_7",
+        "intYIndex&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
